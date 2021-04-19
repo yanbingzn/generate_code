@@ -6,8 +6,8 @@
 
 ## 功能展示
 
-<img src="D:\桌面\pic\生成.JPG" alt="界面" style="zoom:50%;" />
+<img src="img/生成.JPG" alt="界面" style="zoom:50%;" />
 
-<img src="D:\桌面\pic\生成目录.jpg" alt="生成目录" style="zoom:50%;" />
+<img src="img/生成目录.JPG" alt="生成目录" style="zoom:50%;" />
 
-<img src="D:\桌面\pic\生成文件.jpg" alt="生成文件" style="zoom:50%;" />
+<img src="img/生成文件.JPG" alt="生成文件" style="zoom:50%;" />
